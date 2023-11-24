@@ -26,8 +26,7 @@ dla podanego przez użytkownika n < 10, używając odpowiednich potęg liczby 10
 składnika sumy.
 14. Napisz program sumujący następujący szereg liczbowy 1 + 20 + 300 + 4000 + ... + 900000000
 dla podanego przez użytkownika n < 10, używając odpowiednich potęg liczby 10 oraz pętli.
-15. Napisz metodę zwracającą wartość sumy następującego szeregu
-16. https://i.imgur.com/xGMMcbO.png
+15. Napisz metodę zwracającą wartość sumy następującego szeregu https://i.imgur.com/xGMMcbO.png
 17. Napisz metodę zwracającą wartość sumy następującego szeregu
 � 2𝑖𝑖
 𝑖𝑖𝑛𝑛−𝑖𝑖
