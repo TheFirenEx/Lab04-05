@@ -27,16 +27,13 @@ składnika sumy.
 14. Napisz program sumujący następujący szereg liczbowy 1 + 20 + 300 + 4000 + ... + 900000000
 dla podanego przez użytkownika n < 10, używając odpowiednich potęg liczby 10 oraz pętli.
 15. Napisz metodę zwracającą wartość sumy następującego szeregu
-�(𝑛𝑛 − 1)2
-𝑖𝑖!
-𝑛𝑛
-𝑖𝑖=1
-16. Napisz metodę zwracającą wartość sumy następującego szeregu
+16. https://i.imgur.com/xGMMcbO.png
+17. Napisz metodę zwracającą wartość sumy następującego szeregu
 � 2𝑖𝑖
 𝑖𝑖𝑛𝑛−𝑖𝑖
 𝑛𝑛
 𝑖𝑖=1
-17. Napisz metodę zwracającą wartość sumy następującego szeregu
+18. Napisz metodę zwracającą wartość sumy następującego szeregu
 �𝑥𝑥𝑛𝑛
 𝑛𝑛!
 𝑛𝑛
